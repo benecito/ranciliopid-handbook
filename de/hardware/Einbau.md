@@ -42,13 +42,19 @@ Kabel (0,14mm2) am Temperatursensor anlöten und mit Schrumpfschlauch versehen. 
 > Grüne = Signal
 Freies Kabelende beschriften
 
-Stecker mit rotem Kabel und Stecker mit grauem Kabel abziehen.
+Stecker mit rotem Kabel und Stecker mit grauem Kabel am Brühthermostat abziehen.
+
+![Original Bauteilzuordnung](../../img/Original Bauteilzuordnung.jpg)
 
 Schrauben 1 + 2 lösen.
 Schraube 3 ein wenig lockern.
 Das alte Thermostat beiseite legen und aufheben; bereich von der Wärmeleitpaste reinigen.
 
+![Schrauben](../../img/Schrauben.jpg)
+
 Bügel mit Schraube, Beilagscheiben und Muttern vorbereiten. Bügel wieder einbauen dabei Schraube 3 und 2 festziehen, 1 noch etwas locker lassen.
+
+![Schraube Temperatursensor](../../img/Schraube Temperatursensor.jpg)
 
 Die neue Schraube mit Hilfe der zwei Muttern so einstellen, dass die Schraube auf dem Temperatursensor aufliegt. Muttern festziehen.
 Temperatursensor auf der Unterseite mit etwas Wärmeleitpaste versehen, unter der neuen Schraube platzieren und Schraube 1 anziehen. Der Bügel sollte sich dabei leicht verformen. So wird sichergestellt, dass der Sensor fest sitzt, aber nicht zu sehr gequetscht wird.  
@@ -60,9 +66,15 @@ Temperatursensor auf der Unterseite mit etwas Wärmeleitpaste versehen, unter de
 Ein weiteres 1,5mm2 Kabel blau mit Flachstecker versehen und ebenfalls einstecken. Alles mit einem Schrumpfschlauch versehen.
 Kabel eins geht zum SSR der Heizung, Kabel zwei zum Netzteil. Welches Kabel dabei wofür verwendet wird ist egal.
 
+![Verkabelung ehem. Thermostat](../../img/Verkabelung ehem. Thermostat.jpg)
+
 1,5mm2 Kabel schwarz mit Flachsteckhülse mit Abzweig versehen. Den unteren Stecke am Schutzschalter abziehen, auf den Abzweig stecken und beides direkt wieder anstecken.
 
+![Abzweig Stromversorgung Netzteil](../../img/Abzweig Stromversorgung Netzteil.jpg)
+
 Kabel sinnvoll verlegen und einen Platz für das (USB)Netzteil definieren. Kabel vor dem anschließen entsprechend kürzen. (Ich habe das aus dem Gehäuse ausgebaute USB Netzteil rechts an der Rückwand mit doppelseitigem Klebeband angebracht)
+
+![USB Netzteil](../../img/USB Netzteil.jpg)
 
 Am USB Netzteil ein blaues Kabel und ein schwarzen Kabel anschließen / anlöten. Wird das Schaltnetzteil verwendet, das schwarze Kabel an N anschließen und das blaue Kabel an L anschließen. Es empfiehlt sich hierfür die Ringösen zu verwenden. Zusätzlich muss hier noch ein Schutzleiter verlegt werden. Dieser lässt sich an der Erdung des Kessels oder des 3-Wege Ventils "klauen". Vor dem Einbau die Ausgangsspannung am Poti auf ca. 5.2V einstellen.
 
@@ -71,6 +83,8 @@ Am Ausgang ein Rotes und ein Schwarzes Kabel anbringen. Ich habe dafür 0,5mm2 K
 ### SSR Relais Heizung
 
 Montagepunkt für das SSR festlegen. (Ich habe es über der "CPU" neben dem Wasserschlauch mit doppelseitigem Klebeband angebracht)
+
+![Heizungs SSR Verkabelung](../../img/Heizungs SSR Verkabelung.jpg)
 
 An Kabel 2 (blau) des schrittes oben, eine Ringöße pressen (Kabel vor dem anschließen entsprechend kürzen) und an einen beliebigen Pol des SSR Ausgangs anschließen.
 Ein weiteres Kabel 1,5mm2 mit einer Ringöße versehen und an Pol zwei des SSR Ausgangs anschließen. Kabel zum Stecker mit dem grauen Kabel verlegen welches ursprünglich am Thermostat war und entsprechend kürzen. Einen Flachstecker aufpressen, anschleißen und mit eiem Schrumpfschlauch versehen.
@@ -82,6 +96,10 @@ Freie Kabelenden beschriften und richtung 3 Wege Ventil legen.
 
 folgt
 
+![NODE Verkabelung](../../img/NODE Verkabelung.jpg)
+
+![Display](../../img/Display.jpg)
+
 ## Vollausbau
 
 folgt
@@ -89,7 +107,16 @@ folgt
 ## Spannende Addons die gleich mit erledigt werden können
 
 * Senkschraube am Sieb
+
+![Senkschraube Sieb](../../img/Senkschraube Sieb.jpg)
+
+* Verlängerung des 3-Wege Ventils richtung Tropfschale 
+
+![Verlängerung 3-Wege Ventil](../../img/Verlängerung 3-Wege Ventil.jpg)
+
 * Reinigung der Wasserschläuche (sofern die Maschine nicht neu ist)
+
+
 
 ## Ausblick
 Projekte die unterstützt werden können:
